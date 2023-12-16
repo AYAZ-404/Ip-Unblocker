@@ -1,2 +1,10 @@
 # Ip-Unblocker
-It is a sexy ip Unblocker.you can try it if your ip is block.
+Note: It is a sexy ip Unblocker.you can try it if your ip is block.
+
+
+```python
+git clone https://github.com/AYAZ-404/Ip-Unblocker
+cd Ip-Unblocker
+python Ip.py
+```
+
